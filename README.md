@@ -25,7 +25,7 @@ Yapay zekayla güçlendirilmiş **ileri düzey sohbet deneyimi** ile tanışın!
 [Discord Sunucumuza Katılın!](https://discord.gg/hsKQhtWBep)  
 
 ## Credits ✨ 
-**Geliştirildi ve tasarlandı: [Cexha](https://github.com/Cexha) & [AlestiaDev Development](https://github.com/AlestiaDev)**  
+**Geliştirildi ve tasarlandı: [Cexha](https://github.com/Cexha) & [AlestiaDev Development](https://github.com/AlestiaDev) & [Cici Bebem E]()**  
 
 ## Contact, Support & Donate 💡 
 Coming Soon ⏳
